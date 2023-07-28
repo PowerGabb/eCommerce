@@ -2,7 +2,7 @@
 
 Ini adalah website eCommerce yang dibuat untuk memperjualbelikan barang di website. Website ini dibuat menggunakan HTML, CSS, dan JavaScript. Website ini memiliki fitur-fitur berikut:
 
--Daftar produk
+- Daftar produk
 -Keranjang belanja
 -Pembayaran
 -Pengiriman
